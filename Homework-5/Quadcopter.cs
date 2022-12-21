@@ -9,6 +9,7 @@ namespace Homework_5
     {
         List<string> components = new List<string> {"rotor1","rotor2","rotor3","rotor4"};
 
+
         public void Charge()
         {
             Console.WriteLine("Charging...");

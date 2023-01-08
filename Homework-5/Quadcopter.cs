@@ -24,7 +24,7 @@ namespace Homework_5
 
         public string GetInfo()
         {
-            throw new NotImplementedException();
+            return components.Count.ToString();
         }
     }
 }
